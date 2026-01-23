@@ -1,4 +1,4 @@
-Hi there! 👋 I'm DokaIzk
+Hi there! ✌🏿 I'm DokaIzk
 
 🚀 About Me  
 I'm a backend-focused Software Engineer and Smart Contract Developer with experience building scalable APIs, also dabbling in on-chain systems, and DeFi protocols. My core strengths sit at the intersection of backend engineering and blockchain development, with a growing focus on Web3 security, smart contract correctness, and protocol-level design. I’m comfortable working across the full stack when needed — from backend services to smart contracts and light frontend integration.
